@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FærdighedstestEt", "FærdighedstestEt\FærdighedstestEt.csproj", "{A1B98069-8099-4E86-BEE5-790BAF5B34A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FærdighedstestTo", "FærdighedstestTo\FærdighedstestTo.csproj", "{103C7870-6FDA-458E-BC50-82658979215D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FærdighedstestTre", "FærdighedstestTre\FærdighedstestTre.csproj", "{8FE2B6E7-1F6E-4709-BD93-D7B486789EC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FærdighedstestFire", "FærdighedstestFire\FærdighedstestFire.csproj", "{192056D8-2411-4CFB-A2A2-E2540CB09AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FærdighedstestFem", "FærdighedstestFem\FærdighedstestFem.csproj", "{9F13AD0B-879E-45CF-B4D0-DAA4BA335BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FærdighedstestSix", "FærdighedstestSix\FærdighedstestSix.csproj", "{150075DF-C34A-4AC2-8A3F-7534F721D4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B98069-8099-4E86-BEE5-790BAF5B34A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B98069-8099-4E86-BEE5-790BAF5B34A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B98069-8099-4E86-BEE5-790BAF5B34A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B98069-8099-4E86-BEE5-790BAF5B34A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103C7870-6FDA-458E-BC50-82658979215D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103C7870-6FDA-458E-BC50-82658979215D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103C7870-6FDA-458E-BC50-82658979215D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103C7870-6FDA-458E-BC50-82658979215D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE2B6E7-1F6E-4709-BD93-D7B486789EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE2B6E7-1F6E-4709-BD93-D7B486789EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE2B6E7-1F6E-4709-BD93-D7B486789EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE2B6E7-1F6E-4709-BD93-D7B486789EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192056D8-2411-4CFB-A2A2-E2540CB09AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192056D8-2411-4CFB-A2A2-E2540CB09AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192056D8-2411-4CFB-A2A2-E2540CB09AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192056D8-2411-4CFB-A2A2-E2540CB09AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F13AD0B-879E-45CF-B4D0-DAA4BA335BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F13AD0B-879E-45CF-B4D0-DAA4BA335BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F13AD0B-879E-45CF-B4D0-DAA4BA335BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F13AD0B-879E-45CF-B4D0-DAA4BA335BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150075DF-C34A-4AC2-8A3F-7534F721D4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150075DF-C34A-4AC2-8A3F-7534F721D4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150075DF-C34A-4AC2-8A3F-7534F721D4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150075DF-C34A-4AC2-8A3F-7534F721D4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
