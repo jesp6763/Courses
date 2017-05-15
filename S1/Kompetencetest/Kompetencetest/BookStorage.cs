@@ -24,7 +24,7 @@ namespace BookManagerProject
                 Book book = Books[i];
                 sb.AppendLine(string.Format("{0}|{1}|{2}|{3}|{4}", book.Title, book.ISBN, book.Author, book.Amount, book.IsPaperback));
             }
-            File.WriteAllText("Books.txt", sb.ToString());
+            File.WriteAllText("Books.txt", sb.ToString()); // Laver eller overskriver en tekstfil, med det nye text
         }
 
         public static void LoadBooks()
