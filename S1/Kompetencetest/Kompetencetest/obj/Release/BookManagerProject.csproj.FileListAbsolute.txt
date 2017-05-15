@@ -1,0 +1,9 @@
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\bin\Release\BookManager.exe.config
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\bin\Release\BookManager.exe
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\bin\Release\BookManager.pdb
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Release\BookManagerProject.AddBookForm.resources
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Release\BookManagerProject.Form1.resources
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Release\BookManager.Properties.Resources.resources
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Release\BookManagerProject.csproj.GenerateResource.Cache
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Release\BookManager.exe
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Release\BookManager.pdb

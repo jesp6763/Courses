@@ -1,0 +1,10 @@
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Debug\BookManager.csprojResolveAssemblyReference.cache
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Debug\BookManager.csproj.GenerateResource.Cache
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\bin\Debug\BookManager.exe.config
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\bin\Debug\BookManager.exe
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\bin\Debug\BookManager.pdb
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Debug\BookManager.Properties.Resources.resources
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Debug\BookManager.exe
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Debug\BookManager.pdb
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Debug\BookManager.AddBookForm.resources
+C:\VS Dev Projecter\Kompetencetest\Kompetencetest\obj\Debug\BookManager.Form1.resources
