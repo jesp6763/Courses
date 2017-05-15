@@ -1,3 +1,0 @@
-Timesquare Elites|9329190392912|Johnny Depp|32|True
-Timesquare eww|321422|Lel|13|False
-Game Development Patterns and Best Practices|9781787127838|John P. Doran, Matt Casanova|10|True
